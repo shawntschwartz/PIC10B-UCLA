@@ -1,0 +1,3 @@
+John Doe|65000
+Lisa Smith|75000
+Alex Taylor|55000
